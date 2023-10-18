@@ -1,0 +1,18 @@
+.juego {
+  background-color: rgb(100, 0, 100);
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+.btn-reiniciar {
+  background-color: rgb(20, 150, 20);
+}
+
+.btn-eliminar {
+  background-color: rgb(210, 20, 20);
+}
+
+.btn-reiniciar:hover,
+.btn-eliminar:hover {
+  background-color: rgb(255, 136, 0);
+}
